@@ -2,5 +2,4 @@ services:
   - type: web
     name: click-santa-dashboard
     runtime: static
-    buildCommand: echo "Static site ready"
     staticPublishPath: .

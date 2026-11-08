@@ -1,2 +1,1 @@
-# Click Photo Ops Ticket Dashboard
-Deploy as a Render Static Site, publish directory `.`. Upload all files to GitHub repository root. No backend or database. CSV remains in browser.
+Click Photo Ops Holiday Ticket Dashboard v5. Render Static Site. Upload all files to the repository root. Charts scroll horizontally for multi-day reports; busiest slot shows date only when multiple dates are selected.
